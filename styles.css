@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+body{
+	background-color:#cccccc;
+}
+.player_one,.player_two{
+	background-color:white;
+	border:1px solid black;
+
+	border-radius:5px;
+}
+h3{
+	text-align:center;
+}
+.player_one{
+	padding:20px 10px;
+}
+.player_two{
+	width:fit-content;
+	padding:10px;
+	margin-top:25px;
+	vertical-align:middle;
+	margin:auto;
+}
